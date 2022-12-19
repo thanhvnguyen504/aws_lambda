@@ -1,2 +1,2 @@
 # aws_lambda
-Some under-the-hood decisions that AWS Lambda service
+Some under-the-hood decisions from AWS Lambda service
